@@ -1,0 +1,194 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2023-03-24T09:54:01.742-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Enterprise"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "Brave.Brave"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "DominikReichl.KeePass"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge.Beta"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Firefox"
+				},
+				{
+					"PackageIdentifier" : "Mozilla.Thunderbird"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Office"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "RonyShapiro.PasswordSafe"
+				},
+				{
+					"PackageIdentifier" : "Postman.Postman"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Unity.Unity.2021"
+				},
+				{
+					"PackageIdentifier" : "Unity.UnityHub"
+				},
+				{
+					"PackageIdentifier" : "VideoLAN.VLC"
+				},
+				{
+					"PackageIdentifier" : "WinDirStat.WinDirStat"
+				},
+				{
+					"PackageIdentifier" : "WiresharkFoundation.Wireshark"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VFSforGit"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.CLRTypesSQLServer.2019"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "OpenJS.NodeJS"
+				},
+				{
+					"PackageIdentifier" : "Logitech.OptionsPlus"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Azure.StorageExplorer"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AzureCLI"
+				},
+				{
+					"PackageIdentifier" : "ScooterSoftware.BeyondCompare4"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.SQLServer2012NativeClient"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
+				},
+				{
+					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.MouseWithoutBorders"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WebDeploy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.GitCredentialManagerCore"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.3_1"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "XP89DCGQ3K6VLD"
+				},
+				{
+					"PackageIdentifier" : "XP89DCGQ3K6VLD"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.4.10173"
+}
